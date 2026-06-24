@@ -152,5 +152,5 @@ Lee nuestra [Guía de Contribución](CONTRIBUTING.md) para más detalles.
 </p>
 
 <p align="center">
-  <b>⚡ Optimización · Seguridad · Decisión del Usuario</b>
+  <b> Optimización · Seguridad · Decisión del Usuario</b>
 </p>
