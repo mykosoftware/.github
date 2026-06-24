@@ -36,7 +36,7 @@
 
 Creamos **herramientas, aplicaciones y soluciones digitales** diseñadas para empoderar a los usuarios. Nuestro enfoque se centra en:
 
--  **Desarrollo de apps** multiplataforma (Web, Móvil, Escritorio)
+-  **Desarrollo de apps** multiplataforma 
 -  **Herramientas de sistema** para optimización y mantenimiento
 -  **Plataformas web** con arquitectura ligera y segura
 -  **Scripts y utilidades** que simplifican tareas complejas
