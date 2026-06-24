@@ -119,8 +119,8 @@ Creamos **herramientas, aplicaciones y soluciones digitales** diseñadas para em
 
 | Rol | Miembro | Especialidad |
 | :--- | :--- | :--- |
-| **Fundador & Arquitecto** | [@Comuza](https://github.com/Comuza) | Sistemas & Optimización |
-| **Tester** | [@Proximamente](https://github.com/usuario2) | Backend & Seguridad |
+| **Fundador & Arquitecto** | [@Comuza](https://github.com/Comuza) | Sistemas. Optimización y el quien dirige todo el general |
+| **Tester** | [@Fran](https://github.com/Fran94Ll) | Verifica la calidad del producto |
 
 ---
 
