@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <h3>⚡ Optimización </h3>
+        <h3> Optimización </h3>
         <p>Código eficiente que no desperdicia recursos. Aplicaciones ligeras, rápidas y que aprovechan al máximo el hardware.</p>
       </td>
       <td align="center" width="33%">
