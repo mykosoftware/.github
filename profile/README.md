@@ -46,7 +46,7 @@ Creamos **herramientas, aplicaciones y soluciones digitales** diseñadas para em
 ### Únete a Nuestra Comunidad
 
 <p align="center">
-  <a href="https://discord.gg/tu-invite">
+  <a href="https://discord.gg/eSXHbGttkj">
     <img src="https://img.shields.io/badge/Discord-Únete%20Ahora-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
@@ -79,8 +79,8 @@ Creamos **herramientas, aplicaciones y soluciones digitales** diseñadas para em
 </table>
 
 <p align="center">
-  <a href="https://discord.gg/tu-invite">
-    <img src="https://discordapp.com/api/guilds/TU_GUILD_ID/widget.png?style=banner2" alt="Discord Banner" />
+  <a href="https://discord.gg/eSXHbGttkj">
+    <img src="https://discordapp.com/api/guilds/1509649278602182786/widget.png?style=banner2" alt="Discord Banner" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ Creamos **herramientas, aplicaciones y soluciones digitales** diseñadas para em
 
 ### Comunicado Oficial
 
-> *"Tras un período de reestructuración interna, anunciamos el inicio de una nueva fase enfocada en la democratización de herramientas tecnológicas. Nuestro compromiso es ofrecer soluciones que respeten la libertad del usuario.
+> *"Tras un período de reestructuración interna, anunciamos el inicio de una nueva fase enfocada en la democratización de herramientas tecnológicas. Nuestro compromiso es ofrecer soluciones que respeten la libertad del usuario.*
 
 ---
 
@@ -130,7 +130,7 @@ Creamos **herramientas, aplicaciones y soluciones digitales** diseñadas para em
 2.  Reporta bugs en [Issues](https://github.com/tu-org)
 3.  Sugiere nuevas funcionalidades
 4.  Envía Pull Requests con mejoras
-5.  Participa en nuestro [Discord](https://discord.gg/tu-invite)
+5.  Participa en nuestro [Discord](https://discord.gg/eSXHbGttkj)
 
 Lee nuestra [Guía de Contribución](CONTRIBUTING.md) para más detalles.
 
