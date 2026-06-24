@@ -95,12 +95,12 @@ Creamos **herramientas, aplicaciones y soluciones digitales** diseñadas para em
 ### Actividad de la Organización
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-org&bg_color=0a0a0a&color=cccccc&line=a0a0a0&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Comuza&show_icons=true&theme=dark&hide_title=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comuza&layout=compact&theme=dark&hide_title=true" height="160px" />
 </p>
 
 <p align="center">
-  <img height="160px" src="https://beautiful-github-homepage.vercel.app/api?username=tu-org&hide_title=true&show_icons=true&theme=dark&include_all_commits=true" alt="Estadísticas de la organización"/>
-  <img height="160px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=tu-org&hide_title=false&layout=compact&theme=dark&count_private=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comuza&bg_color=0a0a0a&color=ffffff&line=00ff88&point=00ff88&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
