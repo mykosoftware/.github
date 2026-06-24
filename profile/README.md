@@ -105,7 +105,7 @@ Creamos **herramientas, aplicaciones y soluciones digitales** diseñadas para em
 
 ---
 
-### 🛠️ Competencias Técnicas
+### Competencias Técnicas
 
 | Área | Tecnologías |
 | :--- | :--- |
@@ -136,7 +136,7 @@ Lee nuestra [Guía de Contribución](CONTRIBUTING.md) para más detalles.
 
 ---
 
-### 🏷️ Nuestro Compromiso
+### Nuestro Compromiso
 
 <p align="center">
   <img src="https://img.shields.io/badge/Código%20Abierto-Libre-green?style=for-the-badge" alt="Open Source" />
