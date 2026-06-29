@@ -61,9 +61,11 @@ Para nosotros, el "buen futuro" es aquel donde el usuario es realmente dueño de
 ### Equipo Actual y Activo
 Actualmente, Myko está conformado por 3 integrantes. Estamos en la búsqueda constante de nuevo personal y colaboraciones:
 
-* **Comuza** (`Creator`)
-* **Tomas** (`Co-creator`)
-* **Fran** (`Tester oficial`)
+| Rol | Miembro | Especialidad |
+| :--- | :--- | :--- |
+| **Fundador & Arquitecto** | [@Comuza](https://github.com/Comuza) | Creador, sistemas, optimización y dirección general |
+| **Co-Creador** | [@Tomas](https://github.com/Tomxs14) | Desarrollo estratégico y co-creación del producto |
+| **Tester Oficial** | [@Fran](https://github.com/Fran94Ll) | Verifica la calidad y lidera las pruebas de estrés del producto |
 
 ---
 
