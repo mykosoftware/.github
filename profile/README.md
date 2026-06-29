@@ -1,10 +1,5 @@
 # Myko
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pilares-Eficiencia%20%7C%20Seguridad%20%7C%20Consentimiento-238636?style=for-the-badge" alt="Myko Pilares">
-  <img src="https://img.shields.io/badge/Status-Activo-0969da?style=for-the-badge" alt="Status">
-</p>
-
 **Myko** es un grupo de programación cuya razón de ser es demostrarle al usuario que existen herramientas gratuitas, cinematográficas y sin límites de uso, sin la necesidad de entregar sus datos personales a empresas, organizaciones o personas ajenas.
 
 Este proyecto se sostiene sobre **tres pilares principales** que le dan visión, estructura y personalidad al producto:
